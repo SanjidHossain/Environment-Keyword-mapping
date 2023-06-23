@@ -41,7 +41,7 @@ Contributors <br/>
 ## Build from sources
 1. clone the repo
 ```bash
-git clone https://github.com/SanjidHossain/-Capstone-Project1-Data-analysis-on-Quality-of-life-.git
+git clone https://github.com/SanjidHossain/Environment-Keyword-mapping.git
 ```
 2. intialize and activate virtual environment(for linux)
 ```bash
@@ -51,8 +51,3 @@ source venv/bin/activate
 3. install dependencies
 ```bash
 pip install -r requirments.txt
-
-
-
-
-
