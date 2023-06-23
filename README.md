@@ -30,34 +30,29 @@ To utilize the pollution detection system developed in this study, follow the st
 5. Finally, test the trained model on new images to detect and categorize pollutants automatically.<br/>
 6. Please refer to the code implementation for detailed instructions and further information.<br/>
 
-Contributors
-[Mominul islam]
-[Md. Sanjid Hossain]
-[Md. Sanzidul Islam]
-[Md. Ismail Hossain]
-License
-This project is licensed under [License Name].
+Contributors <br/>
+[Mominul islam]()<br/>
+[Md. Sanjid Hossain](https://github.com/SanjidHossain)<br/>
+[Md. Sanzidul Islam]<br/>
+[Md. Ismail Hossain]<br/>
+
+ ### journal Paper will be added very soon <br/>
+
+## Build from sources
+1. clone the repo
+```bash
+git clone https://github.com/SanjidHossain/-Capstone-Project1-Data-analysis-on-Quality-of-life-.git
+```
+2. intialize and activate virtual environment(for linux)
+```bash
+virtualenv --no-site-packages venv
+source venv/bin/activate
+```
+3. install dependencies
+```bash
+pip install -r requirments.txt
 
 
 
 
 
-
-
-
-How to Use
-To utilize the pollution detection system developed in this study, follow the steps below:
-
-Obtain the RGB images representing the pollutants of interest.
-Preprocess the images by converting them to grayscale.
-Train the CNN model using the provided training data.
-Evaluate the model's performance on the validation data and make necessary adjustments.
-Finally, test the trained model on new images to detect and categorize pollutants automatically.
-Please refer to the code implementation for detailed instructions and further information.
-
-Contributors
-[Author 1]
-[Author 2]
-[Author 3]
-License
-This project is licensed under [License Name].
