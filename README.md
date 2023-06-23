@@ -31,7 +31,7 @@ To utilize the pollution detection system developed in this study, follow the st
 6. Please refer to the code implementation for detailed instructions and further information.<br/>
 
 Contributors <br/>
-[Mominul islam]()<br/>
+[Mominul islam](https://github.com/Mominul-Islam-cmd)<br/>
 [Md. Sanjid Hossain](https://github.com/SanjidHossain)<br/>
 [Md. Sanzidul Islam]<br/>
 [Md. Ismail Hossain]<br/>
