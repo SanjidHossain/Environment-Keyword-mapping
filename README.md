@@ -5,7 +5,7 @@ Environmental pollution is a pressing global issue that requires urgent attentio
 ## Dataset and Preprocessing
 The dataset used in this study is categorized into three levels of pollution: mild, average, and high. In order to compare results, the dataset was converted to grayscale, alongside the original RGB images. The annotation process was carried out to label the images accordingly. The dataset was split into training data (70%), validation data (20%), and test data (10%).<br/>
 ### You can find the data [Here](https://drive.google.com/drive/u/2/folders/1Qk9ycyt3saRUKjnUbD4rw2DqR_ZLv_OP)<br/>
-![Image](https://drive.google.com/file/d/1HjkPI37XLaOQND1zGJrR-8-nzyffGYL6/view?usp=drive_link)
+![Image](https://github.com/SanjidHossain/Environment-Keyword-mapping/blob/main/Sample%20data.png)
 
 ## CNN Model and Training
 The CNN model was employed for training and testing the pollution detection system. By leveraging deep learning techniques, the model learns to recognize visual pollutants from the provided images. The RGB images were used for training, and the grayscale images were used for comparison. The model's accuracy and loss were evaluated on the test data.
